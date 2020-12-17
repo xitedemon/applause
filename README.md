@@ -10,7 +10,7 @@ First make sure you have installed the latest version of [node.js](http://nodejs
 From NPM for use as a command line app:
 
 ```shell
-npm install applause -g
+npm install @forks_master/applause -g
 ```
 
 From NPM for programmatic use:
