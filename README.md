@@ -16,7 +16,7 @@ npm install @forks_master/applause -g
 From NPM for programmatic use:
 
 ```shell
-npm install applause
+npm install @forks_master/applause
 ```
 
 From Git:
